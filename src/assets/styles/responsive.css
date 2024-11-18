@@ -1,0 +1,555 @@
+@media screen and (min-width: 1200px) and (max-width: 1299px) {}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {}
+
+@media screen and (min-width: 991px) {
+    .header-responsive-main {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .header-responsive-main {
+        display: block;
+        padding: 20px 30px;
+    }
+
+    .sidebar-logo {
+        padding-left: 30px;
+    }
+
+    .dash-video-inner {
+        margin-bottom: 15px;
+    }
+
+    .content-main {
+        padding: 73px 25px 0;
+        margin-left: 0;
+        width: 100%;
+    }
+
+
+
+    .offercreation-sec {
+        padding-top: 0;
+        ;
+    }
+
+    .offercreation-sec img {
+        width: 100%;
+        max-width: 290px;
+    }
+
+    /* 21 start */
+
+    .set-flex {
+        display: initial;
+    }
+
+    .payment-pocilcy p {
+        font-size: 11px !important;
+    }
+
+    .bookking-view-btn {
+        margin: 30px 0px 20px;
+    }
+
+    .viewedit-text p {
+        margin-bottom: 5px !important;
+    }
+
+    /* .view-modal {
+        height: inherit;
+    } */
+
+    .delete-modal-text-inner p {
+        font-size: 10px !important;
+    }
+
+    .set-date-picker .MuiInputBase-colorPrimary {
+        max-width: 100% !important;
+    }
+
+    .set-position-btn {
+        position: absolute;
+        top: 5px;
+        right: 8px;
+    }
+
+    /* 21 End */
+
+
+}
+
+@media screen and (min-width: 900px) and (max-width: 991px) {}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .view-modal {
+        height: inherit;
+    }
+
+    .login-img img {
+        display: none;
+    }
+
+    .dash-col {
+        width: calc(100% / 2);
+        padding: 0 15px;
+    }
+
+    .voucher-topspace {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+
+    .dash-row .dash-col .dash-card {
+        padding: 20px 25px 10px;
+        margin-bottom: 20px;
+    }
+
+    .dashcard-num {
+        font-size: 30px !important;
+        font-family: 'inter-semibold' !important;
+        color: #fff;
+        line-height: 30px !important;
+    }
+
+    .reslogo {
+        height: 30px;
+    }
+
+    .side-logo {
+        height: 30px;
+        margin: inherit;
+        padding: 0;
+    }
+
+    .book-col.req-col5.MuiBox-root.css-0 {
+        width: 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        justify-content: flex-end;
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .offer-noti-row .book-col {
+        width: 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .accept-btn button,
+    .accept-btn button:hover {
+        font-size: 12px;
+    }
+
+    .book-col {
+        width: 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .modal-seat-col3,
+    .seat-col3 {
+        flex: 0 0 22%;
+        width: 100%;
+        max-width: 22%;
+    }
+
+    .seat-modal {
+        max-width: calc(100% - 30px) !important;
+    }
+
+    .book-col6 {
+        padding-top: 10px;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    /* 21 start (768)*/
+
+    .create-offer-text p {
+        margin-bottom: 5px;
+    }
+
+    .getting-started {
+        max-height: 100%;
+        overflow: auto;
+        padding: 0 10px;
+        HEIGHT: 100%;
+    }
+
+    .modal-logo img {
+        height: 45px;
+    }
+
+    .main-modal {
+        padding: 15px !important;
+    }
+
+    /* 21 End (768)*/
+    .book-row {
+        flex-wrap: wrap;
+    }
+
+    .res-create-offer-text p {
+        white-space: wrap !important;
+    }
+
+    .fire-code {
+        margin-top: 55px;
+    }
+
+    .login-col-1 {
+        display: none;
+    }
+
+    .post-req-col3 {
+        width: 100% !important;
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    .auto-innercontent .logo img {
+        height: 40px;
+    }
+    .noticeboard-req-table{
+        min-width:1000px;
+    }
+    .voucher-table{
+        min-width:1000px;
+    }
+    .sidebar-content-show {
+        display: block;
+    }
+    .sidebar-content-hide {
+        display: none;
+    }
+
+
+
+}
+
+@media (max-width: 767px) {
+    /* .sidebar-content-block {
+        display: block;
+    } */
+    .voucher-table{
+        min-width:950px;
+    }
+    .noticeboard-req-table {
+        min-width: 1000px;
+    }
+    .partners-table{
+        min-width:1000px;
+    }
+    .verify-design-div{
+       max-width:100%;
+    }
+    .universitydropdown-table {
+        min-width: 554px !important;
+    }
+    .areadropdown-table{
+        min-width: auto !important;
+    }
+    .noticeboard-table {
+        min-width: 753px !important;
+    }
+    .search-header {
+        flex-wrap: wrap;
+    }
+    .res-admin-btn-set{
+        margin-bottom: 10px;
+    }
+    .login-btn button {
+        width: auto;
+    }
+    /* Admin start */
+    /* / 1-05-23 / */
+.profile-div {
+    padding: 20px 15px;
+    border-bottom: 1px solid #E6E6E6;
+}
+
+.set-admin-checkbox {
+    padding: 0px 13px 13px;
+}
+.user-table{
+    min-width:900px;
+}
+
+/* / 1-05-23 / */
+    .login-box-main {
+       max-width: 100%; 
+        width:100% 
+    }
+     .login-box-main {
+        margin: 0 0px;
+    }
+    .admin-recovery p {
+        font-size: 11px;
+        line-height: 18px;
+
+    }
+     /* Admin end */
+    .seatcreation-tab-main div[role="tabpanel"] .css-19kzrtu {
+        padding: 24px 0;
+    }
+
+    .auto-innercontent .logo img {
+        height: 35px;
+    }
+
+    .voucher-topspace {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+   
+
+    .login-img img {
+        display: none;
+    }
+
+    .input-design-div input {
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+
+    .sidebar-content-show {
+        display: block;
+    }
+    .sidebar-content-hide {
+        display: none;
+    }
+
+    .content-main {
+        margin-left: 0;
+        width: 100%;
+        padding: 73px 15px 0;
+    }
+
+    .dash-col {
+        width: 100%;
+    }
+
+    .dash-row .dash-col .dash-card {
+        margin-bottom: 15px;
+    }
+
+    .dash-video-inner {
+        margin-bottom: 15px;
+    }
+
+    .white-btn,
+    .white-btn:hover {
+        padding: 8px 20px !important;
+    }
+
+    .edit-seat-btn {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        margin-bottom: 20px;
+    }
+
+    .seat-card-overflow {
+
+        min-width: 800px;
+    }
+
+    .reslogo {
+        height: 30px;
+    }
+
+    .side-logo {
+        height: 30px;
+        margin: inherit;
+
+    }
+
+    .profile-col1,
+    .profile-col2,
+    .profile-col3 {
+        width: 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .profile-col4 {
+        width: 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .offer-noti-row,
+    .post-req-row {
+        padding: 10px 20px !important;
+        min-height: 53px;
+        flex-wrap: wrap;
+    }
+
+    .book-col.req-col5.MuiBox-root.css-0 {
+        width: 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        justify-content: flex-end;
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .offer-noti-row .book-col,
+    .book-col {
+        width: 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .book-row {
+        flex-wrap: wrap;
+    }
+
+    .book-col6 {
+        padding-top: 10px;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .accept-btn button,
+    .accept-btn button:hover {
+        font-size: 10px;
+    }
+
+    .post-req-col3 {
+        width: 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .live-offer {
+        padding: 15px;
+    }
+
+    .seat-modal {
+        max-width: calc(100% - 30px) !important;
+        padding-top: 20px !important;
+    }
+
+    .set-get-text-top {
+        margin-top: 20px;
+    }
+
+    .getting-started .MuiGrid-item {
+        padding-left: 20px !important;
+    }
+
+    .getting-started .MuiGrid-container {
+        margin-left: -20px !important;
+    }
+
+    .res-create-offer.getting-started .MuiGrid-container {
+        margin-left: -16px !important;
+    }
+
+    .res-create-offer-text p {
+        white-space: normal !important;
+    }
+
+    /* 21 start (767)*/
+    /* .getting-started {
+
+        padding: 0PX;
+    } */
+
+    .getstart-res {
+        margin-bottom: 13px !important;
+    }
+
+    .set-flex .MuiGrid-container {
+        margin-right: -7px;
+    }
+
+    .set-flex .MuiGrid-item {
+        margin-right: 7px;
+    }
+
+    .payment-pocilcy p {
+        font-size: 11px !important;
+        margin-bottom: 10px;
+    }
+
+    .getmodal {
+        max-width: calc(100% - 20px) !important;
+    }
+
+    .set-date-picker .MuiInputBase-colorPrimary {
+        max-width: 100% !important;
+    }
+
+    .fire-code {
+        margin-top: 0px;
+    }
+
+    .offer-modal-text p {
+        font-size: 17px !important;
+    }
+
+    .main-modal {
+        padding: 15px !important;
+        max-width: calc(100% - 20px);
+    }
+
+    .offer-main-modal {
+        max-width: calc(100% - 20px) !important;
+    }
+
+    .businessimage-main-modal {
+        max-width: calc(100% - 20px) !important;
+    }
+
+    .offer-text p {
+        font-size: 12px;
+    }
+
+    .businessimage-text p {
+        line-height: 26px;
+    }
+
+    .payment-inner-text p {
+        font-size: 11px;
+    }
+
+    .modal-logo img {
+        height: 35px;
+    }
+
+    .modal-text p {
+        font-size: 24px;
+        line-height: 20px;
+    }
+
+    .modal-seat-col3 {
+        flex: 0 0 17%;
+        max-width: 17%;
+        width: 17%;
+    }
+
+    /* 21 End (767)*/
+    .login-col-1 {
+        display: none;
+    }
+
+    .login-col-2,
+    .login-box-main {
+        max-width: 100%;
+        flex: 1;
+    }
+
+    .login-spacing {
+        height: 100vh;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 766px) {}
+
+@media screen and (min-width: 320px) and (max-width: 374px) {}

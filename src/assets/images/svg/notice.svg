@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="14" height="14" transform="translate(121 128)" fill="#c66f6f"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-121 -128)" clip-path="url(#clip-path)">
+    <g id="__TEMP__SVG__" transform="translate(119.303 127.576)">
+      <path id="Path_7" data-name="Path 7" d="M10.038,4.242H6.364V3.394h3.3A3.148,3.148,0,0,1,10.042.848H3.394a.848.848,0,0,0-.848.848V13.576a.848.848,0,0,0,.848.848h8.485a.848.848,0,0,0,.848-.848V5.727a3.178,3.178,0,0,1-2.69-1.485ZM5.515,11.03H4.667v-.848h.848Zm0-1.7H4.667V8.485h.848Zm0-1.7H4.667V6.788h.848Zm0-1.7H4.667V5.091h.848Zm0-1.7H4.667V3.394h.848Zm5.091,6.788H6.364v-.848h4.242Zm0-1.7H6.364V8.485h4.242Zm0-1.7H6.364V6.788h4.242Zm0-1.7H6.364V5.091h4.242Z" fill="#027c8a"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="2.121" cy="2.121" r="2.121" transform="translate(10.606 0.424)" fill="#027c8a"/>
+    </g>
+  </g>
+</svg>
