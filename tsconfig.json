@@ -19,10 +19,9 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "baseUrl": "http://localhost:3000"
+    "baseUrl": "src"  // Corrected to 'src'
   },
   "include": [
     "src"
   ]
 }
-
