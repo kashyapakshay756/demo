@@ -1,7 +1,7 @@
 describe('Template Spec', () => {
   // Visit the page before each test to avoid redundancy
   beforeEach(() => {
-    cy.visit('http://localhost:8080'); // Ensure you include the protocol (http:// or https://)
+    cy.visit('http://localhost:3030'); // Ensure you include the protocol (http:// or https://)
   });
 
   it('verifies email with an invalid input', () => {
